@@ -290,6 +290,6 @@
   }
 
   // 8. Load default weather - same as original
-  fetchWeather("goa");
+  fetchWeather("Andaman");
 
 })();
